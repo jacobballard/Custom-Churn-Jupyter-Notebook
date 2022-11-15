@@ -11,3 +11,5 @@ K-Nearest Neighbors, Decision Trees, Decision Forests, and Support Vector Machin
 were all compared along with the previous Logistic Regression model and the best model was
 determined using the AUC score of each for True Positives vs. False Positives and based on that
 Logistic Regression was still the best model.
+
+This can also be viewed aboved (lab_04).
